@@ -4,11 +4,7 @@ var urlsToCache = [
   '/web-pwa2/index.html',
   '/web-pwa2/css/styles.css',
   '/web-pwa2/js/main.js',
-  '/web-pwa2/images/user.jpg',
-  'https://fonts.googleapis.com/css?family=Roboto:regular,bold,italic,thin,light,bolditalic,black,medium&lang=en',
-  'https://fonts.googleapis.com/icon?family=Material+Icons',
-  'https://code.getmdl.io/1.3.0/material.cyan-light_blue.min.css',
-  'https://code.getmdl.io/1.3.0/material.min.js'
+  '/web-pwa2/images/user.jpg'
 ];
 
 self.addEventListener('install', function(event) {
